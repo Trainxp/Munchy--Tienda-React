@@ -1,0 +1,51 @@
+.contenedorProductos {
+    background: linear-gradient(rgb(202, 0, 175), blue); 
+    color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.ContenedorItem {   display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ContenedorItem div {margin-left: 10px; margin-right: 10px;}
+
+.centrado {display: flex; justify-content: center;}
+.btnComprar {
+    background-color: limegreen;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btnComprar:hover {background: linear-gradient(rgb(42, 42, 255), rgb(255, 255, 42)); box-shadow: 2px 2px lime;}
+
+.form {display: flex; 
+    flex-direction: column;
+     margin: 5px; 
+     max-width: fit-content;
+     background: linear-gradient(rgb(194, 0, 194),blue);
+     border-radius: 10px;
+     padding: 5px;
+     color: white;
+     margin-top: 50px;
+     margin-bottom: 20px;
+}
+
+form{display: flex; justify-content: center;}
+
+label {margin: 2px;}

@@ -1,0 +1,23 @@
+.Logo {width: 50px;}
+
+.separa2 {display: flex; justify-content: space-evenly;}
+
+.boton-carrito {
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 6px;
+    transition: all .3s;
+    margin-left: 40px;
+}
+
+.boton-carrito:hover {
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: rgb(65, 225, 92);
+}
+.boton-carrito:focus {
+    outline: none;
+}

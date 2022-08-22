@@ -1,0 +1,20 @@
+.Elementos {display: flex;}
+
+.subelementos {border: 1px solid red; margin: 10px;}
+
+.Contenedor {background-color: rgb(236, 236, 236); border-radius: 20px;}
+
+.agregar {
+    color: black; 
+    background-color: rgb(115, 253, 253);
+    border: 2px solid black;}
+
+h1 {text-align: center;}
+.saludo { color: black; background: linear-gradient(rgb(114, 250, 255), rgb(243, 108, 255));}
+
+.Contencion {display: flex; justify-content: center;}
+
+body {background: linear-gradient(rgb(114, 250, 255), rgb(243, 108, 255));}
+
+.compra {background-color: blue; color: white; }
+.compra:hover {background-color: red; color: white;}

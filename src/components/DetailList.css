@@ -1,0 +1,8 @@
+.Contenedor2 {background-color: rgba(223, 223, 223, 0.452);}
+
+h2 {color: black;}
+.foto {text-align: center;}
+
+.boton {display: flex; justify-content: center;}
+
+.productos{display: flex; justify-content: center;}

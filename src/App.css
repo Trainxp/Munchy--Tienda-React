@@ -1,0 +1,8 @@
+* {margin: 0;}
+
+.App {
+  text-align: center;
+}
+
+.error {margin: 50px 0; color: red; background-color: lightgray;}
+
